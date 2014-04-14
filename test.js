@@ -43,4 +43,4 @@ it('should keep placeholder if no substitution is found', function() {
   input = '%s';
   output = matt(input);
   assert(output, input);
-})
+});

@@ -26,9 +26,12 @@ Works well with AMD, Node.js and the browser.
 ### Basic substitution
 
 ```js
-var message = 'Hello %s! You're our visitor number %d! That means you just won %f pounds of Nutella!';
+var message = 'Hello %s! \
+You\'re our visitor number %d! \
+That means you just won %f pounds of Nutella!';
 
-console.log(matt(message, 'John', 1000, 780.35)); // Hello John! You're our visitor number 1000! That means you just won 780.35 pounds of Nutella!
+console.log(matt(message, 'John', 1000, 780.35));
+// Hello John! You're our visitor number 1000! That means you just won 780.35 pounds of Nutella! 
 ```
 
 ### Named arguments
@@ -41,7 +44,8 @@ var message = 'Hello user! This is %(name)s %(surname)s. Check %(website)s for m
       website: 'http://johndoe.com'
   };
 
-console.log(matt(message, data)); // "Hello user! This is John Doe. Check http://johndoe.com for more info."
+console.log(matt(message, data));
+// "Hello user! This is John Doe. Check http://johndoe.com for more info."
 ```
 
 ## License

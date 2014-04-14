@@ -1,6 +1,6 @@
 # matt.js [![Build Status](https://travis-ci.org/rafaelrinaldi/matt.js.svg?branch=master)](https://travis-ci.org/rafaelrinaldi/matt.js)
 
-Simple string for**matt**er based on the [`sprintf`](http://en.cppreference.com/w/c/io/fprintf) implementation.
+Simple string for<strong><u>matt</u></strong>er based on the [`sprintf`](http://en.cppreference.com/w/c/io/fprintf) implementation.
 
 ## Motivation
 

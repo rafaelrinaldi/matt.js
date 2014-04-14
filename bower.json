@@ -1,0 +1,28 @@
+{
+  "name": "matt.js",
+  "main": "index.js",
+  "version": "0.1.0",
+  "authors": [
+    "Rafael Rinaldi <rafael.rinaldi@gmail.com>"
+  ],
+  "description": "Simple string formatter based on the sprintf implementation.",
+  "keywords": [
+    "matt",
+    "formatter",
+    "string",
+    "printf",
+    "sprintf",
+    "substitution",
+    "template",
+    "lightweight",
+    "console"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,4 +1,4 @@
-# matt.js
+# matt.js [![Build Status](https://travis-ci.org/rafaelrinaldi/matt.js.svg?branch=master)](https://travis-ci.org/rafaelrinaldi/matt.js)
 
 Simple string formatter based on the [`sprintf`](http://en.cppreference.com/w/c/io/fprintf) implementation.
 
@@ -31,7 +31,7 @@ You\'re our visitor number %d! \
 That means you just won %f pounds of Nutella!';
 
 console.log(matt(message, 'John', 1000, 780.35));
-// Hello John! You're our visitor number 1000! That means you just won 780.35 pounds of Nutella! 
+// Hello John! You're our visitor number 1000! That means you just won 780.35 pounds of Nutella!
 ```
 
 ### Named arguments

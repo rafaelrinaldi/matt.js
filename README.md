@@ -1,7 +1,7 @@
 > # Deprecation notice :rotating_light:
 > This project is no longer being maintened by me. If you want to take ownership over it, just [ping me](https://github.com/rafaelrinaldi/contact).  
 >
-> Since I'm now using ES6 on my projects (thanks to Babel), I left `sprintf`-like approaches and fully embraced [template strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings). If you still want this, [`sprintf-js`](https://npmjs.org/package/sprintf-js) seem to cover all your needs (I personally have never used it tho).
+> Since I'm now using ES6 on my projects (thanks to [Babel](http://babeljs.io)), I left `sprintf`-like approaches and fully embraced [template strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings). If you still want this, [`sprintf-js`](https://npmjs.org/package/sprintf-js) seem to cover all your needs (I personally have never used it tho).
 
 # matt.js [![Build Status](https://travis-ci.org/rafaelrinaldi/matt.js.svg?branch=master)](https://travis-ci.org/rafaelrinaldi/matt.js)
 
